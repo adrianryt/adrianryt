@@ -1,7 +1,7 @@
 ## Hi 👋 I'm Adrian
 
 I am a computer science engineer and I have experience working as a Fullstack developer👨‍💻. 
-I enjoy developing tools that simplify people's lives. I mainly worked with Django, Ruby on Rails, JavaScript, React, PostgreSQL, and AWS.
+I enjoy developing tools that simplify people's lives. I mainly worked with Python, Django, Ruby on Rails, JavaScript, React, PostgreSQL, and AWS.
 
 - ⚡️ Currently working at Software Mansion
 - 🌱 I’m currently learning React Native
